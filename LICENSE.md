@@ -1,4 +1,4 @@
-
+Enhance BetterTouchTool for macOS with BetterTouchTool for macOS exclusive Utility - startup-manager and battery-health, the #1 utility. Includes startup-manager and
 
 
 
